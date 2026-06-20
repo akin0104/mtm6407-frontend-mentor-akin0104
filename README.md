@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Intro section with dropdown navigation
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](preview.jpg)
@@ -103,4 +104,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 
+
+# mtm6407-frontend-mentor-akin0104
+ 70a53d64b78d6632689e6a8ec063d5fbda276b49
