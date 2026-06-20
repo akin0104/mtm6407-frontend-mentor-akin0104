@@ -108,3 +108,35 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 # mtm6407-frontend-mentor-akin0104
  70a53d64b78d6632689e6a8ec063d5fbda276b49
+
+# MTM6407 Frontend Mentor Challenge
+
+## Name
+
+Bimbola Coker
+
+## Student Number
+
+041175318
+
+## Challenge
+
+Frontend Mentor - Intro Section with Dropdown Navigation
+
+## Description
+
+This project is a responsive landing page built as part of the Frontend Mentor challenge. The page includes a navigation bar with dropdown menus, a hero section, client logos, and responsive layouts for desktop and mobile devices.
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## Live Site
+
+[Paste your GitHub Pages URL here after publishing]
+
+## Repository
+
+https://github.com/akin0104/mtm6407-frontend-mentor-akin0104
